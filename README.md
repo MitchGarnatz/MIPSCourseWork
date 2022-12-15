@@ -1,1 +1,2 @@
 # MIPSCourseWork
+Listed in this project are multiple projects that I created using MIPS assembly language. Most of them serve a purpose to show the capabilities of registers and how simple processes occur near the processor. Much of this work helps in understanding how bits are manipulated and used to check a hamming code or even to an integer multiply. In order to run the code in these files, one would need an IDE that can handle and run .asm files.
